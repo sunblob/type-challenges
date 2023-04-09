@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "outDir": "dir",
+    "rootDir": "src",
+    "paths": {
+      "@/utils": ["./src/utils"]
+    }
+  },
+  "exclude": ["nodule_modules"]
+}
