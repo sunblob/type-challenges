@@ -2,6 +2,10 @@
 
 ## from [Typescript Challenges](https://github.com/type-challenges/type-challenges)
 
+## Typescript useful links
+
+- [Infer](https://blog.logrocket.com/understanding-infer-typescript/)
+
 ## List of challenges
 
 ### EASY
@@ -19,3 +23,7 @@
 - [x] Push [3057 - Push](https://github.com/type-challenges/type-challenges/blob/main/questions/03057-easy-push/README.md)
 - [x] Unshift [3060 - Unshift](https://github.com/type-challenges/type-challenges/blob/main/questions/03060-easy-unshift/README.md)
 - [x] Parameters [3312 - Parameters](https://github.com/type-challenges/type-challenges/blob/main/questions/03312-easy-parameters/README.md)
+
+### MEDIUM
+
+- [x] GetReturnType [2 - Get return Type]()
