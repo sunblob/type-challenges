@@ -5,6 +5,7 @@
 ## Typescript useful links
 
 - [Infer](https://blog.logrocket.com/understanding-infer-typescript/)
+- [Types vs Interfaces](https://blog.logrocket.com/types-vs-interfaces-typescript/)
 
 ## List of challenges
 
